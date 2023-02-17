@@ -20,6 +20,9 @@ In this technical project, we make a simple radar using the ultrasonic sensor, t
 5. Jump Wires 
 
 ### Circuit Diagram :
+<img src="https://github.com/PrathuashaKB/FanSeatz-Armypedia/blob/main/images/img2.PNG" width="100%"> 
 
-"Suggestions and project improvement are invited"
-Prathuasha K B
+
+#### "Suggestions and project improvement are invited"
+
+#### Prathuasha K B
