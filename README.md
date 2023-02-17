@@ -1,5 +1,6 @@
 # SHORT-RANGE-ULTRASONIC-RADAR
 Technical project, a simple radar using the ultrasonic sensor to detect objects within the short range.
+Reference of similar project :https://projecthub.arduino.cc/shafeeque/ddeacea1-77fc-4ca8-8d12-0d9b4acfb104
 
 ### About :
 Radar is an object detection system that uses electromagnetic waves to identify range, altitude, direction, or speed of both moving and fixed objects such as aircraft, ships, vehicles, weather formations, and terrain. When we use ultrasonic waves instead of electromagnetic waves, we call it ultrasonic radar.
