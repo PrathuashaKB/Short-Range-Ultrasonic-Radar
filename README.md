@@ -20,6 +20,8 @@ This project was developed as part of a technical showcase and was presented at 
 ![Servo](https://img.shields.io/badge/Servo%20Motor-Tower%20Pro-orange)
 ![Ultrasonic](https://img.shields.io/badge/Ultrasonic%20Sensor-HC--SR04-blue)
 
+[PROJECT DOCUMENTATION](https://github.com/PrathuashaKB/Short-Range-Ultrasonic-Radar/blob/main/SRUR%20report.pdf), you can find the complete project documentation here.
+
 ### This model is built for following purpose :
 1. Detect the presence of both moving and static objects.
 
