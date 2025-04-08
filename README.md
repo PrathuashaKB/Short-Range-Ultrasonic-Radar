@@ -13,14 +13,14 @@ Radar is an object detection system that uses electromagnetic waves to identify 
 In this technical project, where we made a simple radar using the ultrasonic sensor, this radar works by measuring a range from 3cm to 40 cm as non-contact distance, with angle range between 15˚ and 165˚.The movement of the sensor is controlled by using a small servo motor. Information received from the sensor will be used by “Processing Development Environment” software to illustrate the result on a PC screen.
 This project was developed as part of a technical showcase and was presented at the **Open House Event** hosted by the Department of CSE at SSIT.
 
-### This model is built for following purpose:
+### This model is built for following purpose :
 1. Detect the presence of both moving and static objects.
 
 2. Identify and measure range, direction, and relative position from the sensor.
 
 3. Demonstrate radar-like object detection using accessible electronic components.
 
-### Features
+### Features :
 1. Real-time object detection and display
 
 2. Angular sweep between 15˚ and 165˚
