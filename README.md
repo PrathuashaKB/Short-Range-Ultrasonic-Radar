@@ -22,6 +22,8 @@ This project was developed as part of a technical showcase and was presented at 
 
 [PROJECT DOCUMENTATION](https://github.com/PrathuashaKB/Short-Range-Ultrasonic-Radar/blob/main/SRUR%20report.pdf), you can find the complete project documentation here.
 
+[PROJECT PRESENTATION](https://github.com/PrathuashaKB/Short-Range-Ultrasonic-Radar/blob/main/SRUR%20Presentation.pptx), you can find the complete project presentation here.
+
 ### This model is built for following purpose :
 1. Detect the presence of both moving and static objects.
 
